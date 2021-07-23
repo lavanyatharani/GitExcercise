@@ -1,0 +1,23 @@
+C# latest version C#8.0 2019 visual studio 2019
+--------------------------------------------
+Dynamic and object type:
+object type need boxing and unboxing to assigan a value.
+like object a="sdd";
+string a=(string) a;
+Dynamic: there is no need of conversion. 
+like dynamic a= "std";
+string b=a;
+-----------------------------------------------
+c# interpolation
+
+string firstName = "James";
+string lastName = "Bond";
+string code = "007";
+ 
+string fullName = $"Mr. {firstName} {lastName}, Code: {code}";
+-------------------------------------------------
+Interface:
+No implementation
+no access modifier
+
+https://www.tektutorialshub.com/angular/angular-folder-structure-best-practices/
